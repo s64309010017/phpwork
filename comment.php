@@ -12,13 +12,4 @@ echo "94000 <br>";
 echo "Asia <br>";*/
 echo "Universal";
 
-
-
-
-
-
-
-
-
-
 ?>
